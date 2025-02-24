@@ -24,8 +24,6 @@ yarn-error.log*
 pnpm-debug.log*
 
 
-# dotenv files
-.env.example
 
 # Temporary files
 *.tmp
